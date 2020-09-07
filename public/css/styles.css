@@ -1,0 +1,13 @@
+/* General Styles */
+.category-menu{
+    background: #ddffdd;
+}
+
+/* Categories on Main Menu */
+.nav-main-category a{
+color: black;
+}
+
+.nav-main-category a:hover{
+    color : #9e9e9e;
+    }
